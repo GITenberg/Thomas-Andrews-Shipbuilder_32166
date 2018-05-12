@@ -1,0 +1,29 @@
+_repo: Thomas-Andrews-Shipbuilder_32166
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bullock, Shan F.
+    birthdate: 1865
+    deathdate: 1935
+    gutenberg_agent_id: '35704'
+    url: http://www.gutenberg.org/2009/agents/35704
+description: ''
+gutenberg_issued: '2010-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Andrews, Thomas, 1873-1912'
+- !lcc 'VM'
+- !lcsh 'Titanic (Steamship)'
+- !lcsh 'Harland and Wolff'
+- !lcsh 'Naval architects -- Northern Ireland -- Belfast -- Biography'
+title: Thomas Andrews, Shipbuilder
+url: http://www.gutenberg.org/ebooks/32166
